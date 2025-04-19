@@ -64,16 +64,15 @@
         <p>Web Developer | Software Engineer | AI Enthusiast</p>
     </header>
 
-    <div class="container">
+<div class="container">
         <!-- Profile Picture and Introduction -->
         <div class="profile">
             <img src="your_picture_url.jpg" alt="Your Picture">
             <h2>Your Name</h2>
             <p>A brief description about yourself.</p>
-        </div>
-
-        <!-- Education Section -->
-        <div class="section">
+</div>
+<!-- Education Section -->
+<div class="section">
             <h3>Education</h3>
             <ul>
                 <li><strong>Degree</strong> - University Name (Year)</li>
@@ -81,8 +80,8 @@
             </ul>
         </div>
 
-        <!-- Experience Section -->
-        <div class="section">
+<!-- Experience Section -->
+<div class="section">
             <h3>Experience</h3>
             <ul>
                 <li><strong>Job Title</strong> - Company Name (Year)</li>
@@ -90,18 +89,18 @@
             </ul>
         </div>
 
-        <!-- Skills Section -->
-        <div class="section">
+<!-- Skills Section -->
+<div class="section">
             <h3>Skills</h3>
             <ul>
                 <li>Programming Languages: Python, JavaScript, etc.</li>
                 <li>Tools: Git, Docker, etc.</li>
                 <li>Frameworks: Flask, React, etc.</li>
             </ul>
-        </div>
+</div>
 
-        <!-- Contact Section -->
-        <div class="section">
+ <!-- Contact Section -->
+<div class="section">
             <h3>Contact</h3>
             <ul>
                 <li>Email: your_email@example.com</li>
